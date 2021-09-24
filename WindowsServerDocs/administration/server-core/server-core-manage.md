@@ -91,7 +91,7 @@ Where *rulegroup* is one of the following, depending on which snap-in you want t
 | Shared Folders                         | File and Printer Sharing                              |
 | Task Scheduler                         | Performance Logs and Alerts, File and Printer Sharing |
 | Disk Management                        | Remote Volume Management                              |
-| Windows Firewall and Advanced Security | Windows Firewall Remote Management                    |
+| Windows Firewall and Advanced Security | Windows Firewall Remote Management (or alternatively: Windows Defender Firewall Remote Management)                   |
 
 
 > [!NOTE]
